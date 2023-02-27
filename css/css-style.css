@@ -1,0 +1,29 @@
+nav img {
+    width: 7%;
+    float:left
+}
+
+header {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+nav {
+    border-bottom: 1px solid black;
+    position: fixed;
+}   
+
+nav ul {
+    float: right;
+}
+
+nav ul li {
+    overflow: hidden;
+    padding: 1em;
+    display: inline-block;
+    font-variant: small-caps
+}
+
+body {
+    background: rgb(184, 186, 201);
+    font-family: sans-serif;
+}
