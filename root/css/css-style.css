@@ -23,7 +23,7 @@ p.strapline {
 
 
 nav {
-    display:flex;
+    display: flex;
     justify-content: space-around;
     max-width: 90%;
     font-size: 1vw;
